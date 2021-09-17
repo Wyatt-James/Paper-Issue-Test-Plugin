@@ -1,0 +1,4 @@
+example_item:
+  ==: org.bukkit.inventory.ItemStack
+  type: CROSSBOW
+  amount: 1

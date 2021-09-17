@@ -1,0 +1,7 @@
+name: ${project.name}
+main: com.hippout.${pluginyml.classpath}.${project.name}
+version: ${project.version}
+api-version: ${pluginyml.apiVersion}
+website: ${project.url}
+author: Wyatt_James
+depend: [ ]
